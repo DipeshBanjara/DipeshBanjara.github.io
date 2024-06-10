@@ -1,14 +1,12 @@
 ## About My Project
+Enhancing Parking Efficiency through Predictive Modeling and Live Tracking.
 
-mBot Neo
+Problem: There is a lack of reasearch focusing on parking sense.There are so many ways of parking ways which are not organized and tough for people to find the parking spot.
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
-
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
-
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+Approach: During this project, I will help my team in finding the techincal overview of a paring sense.
+  -How can we save our time and get the easy access to the parking spot?
+  -How can we use Firefly Algorith to find the parking spot?(Firefly Algorithm:(to enhance parking lot properties distance and area)
+  -Using the optimization techniques to comeout from problem of parking space and wavelet transformm and AI nwtwork to reduce cost.
 
 Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
 
