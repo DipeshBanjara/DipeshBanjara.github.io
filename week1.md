@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-Author: Dipesh Banjara
+author: Dipesh Banjara
 ---
 
 
