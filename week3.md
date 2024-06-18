@@ -1,3 +1,11 @@
+---
+layout: post
+title: Week 3
+author: Dipesh Banjara
+---
+
+
+
 Monday,I arrived at the Business building around 9:00 am and got to work on Github.I uploaded my photo last week, but again Mr. Michael showed us how to do it for the one who haven’t completed it.He began educating us about the overleaf after the GitHub.I updated my mentor intro on both GitHub and Overleaf, and I figured out how to post the photo on overleaf.I posted my project, my introduction, and the blogs for weeks one and two. Dr. Anita Pandey arrived at ten and gave a presentation regarding the writing.She gave lessons on the methods, techniques, and resources for improving writing through discussion, outlining, information, criticism, re-outlining, and editing.She even gave us advice on organizing. Appropriate visual space, introduction, body, conclusion, appendices, references, acknowledgements, and disclaimer were among the advice given. She explained the significance that language and academic presentation have in writing, including the use of transitions, short sentences, important terms, subheadings, passive voice, visual aids, and citations from reliable sources. We also learned more about ways to prevent plagiarism by paraphrasing and using transitions.Following the conference, I had lunch, and Dr. Anita Pandey stopped by my lab to inquire about our research.Which sources are we using, and what do we really type to locate the papers?I began looking through the journals and materials for my project after she departed.
 
 Tuesday,I arrived at the research room of the CBEIS building.My mentor is in other state for his presentation.Even though he is out of state he conducted a google meeting for us so that he can help us what’s going on with the project.Everything was going well and we he sent us a excel sheet on our drive and we started searching for a paper for a whole day.I found two of the paper a filled up on a excel.The paper was about using AI model for parking and for it effectiveness.
